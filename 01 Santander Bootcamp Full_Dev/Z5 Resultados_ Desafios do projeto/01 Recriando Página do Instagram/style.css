@@ -142,19 +142,19 @@ body {
         background-color: #fafafa;
     }
 
-    .instagram-wrapper {
+    .cont-insta-wraper {
         width: 90%;
     }
 
-    .instagram-phone {
+    .insta-phone {
         display: none;
     }
 
-    .instagram-continue {
+    .conta-confirma {
         width: 100%;
     }
     
-    .group {
+    .grupo-container {
         border: 1px solid transparent;
     }
 }
